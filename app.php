@@ -1,6 +1,6 @@
 <?php 
 
-	//classe dashboard
+	//classe dashboard 
 	class Dashboard {
 
 		//variaveis
